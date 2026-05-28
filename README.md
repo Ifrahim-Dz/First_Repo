@@ -16,6 +16,7 @@ For now, it contains only this README file.
 - 3D Modeling & Animation (Blender)
 - Front-end basics
 - Video Editing
+- Photography
 
 ## Goals
 - Learn how to make commits and push to GitHub
