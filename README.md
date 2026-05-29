@@ -18,6 +18,7 @@ For now, it contains only this README file.
 - Video Editing
 - Photography
 - UI/UX Design
+- Motion Graphics
 
 ## Goals
 - Learn how to make commits and push to GitHub
