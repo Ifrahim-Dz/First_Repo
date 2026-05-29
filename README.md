@@ -17,6 +17,7 @@ For now, it contains only this README file.
 - Front-end basics
 - Video Editing
 - Photography
+- UI/UX Design
 
 ## Goals
 - Learn how to make commits and push to GitHub
